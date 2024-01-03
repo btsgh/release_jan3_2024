@@ -58,7 +58,7 @@
         }
     },
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "columnUpdatedAt": 1704255572444,
+    "columnUpdatedAt": 1704256355199,
     "defaultSelectedRowIndices": [0],
     "mobileBottomRow": 29,
     "widgetName": "Table1",
@@ -219,7 +219,7 @@
     "key": "rjdm20qgg0",
     "canFreezeColumn": true,
     "isDeprecated": false,
-    "rightColumn": 34,
+    "rightColumn": 64,
     "textSize": "0.875rem",
     "widgetId": "ql2a243d3g",
     "minWidth": 450,

@@ -1,8 +1,12 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "Firestore",
       "isDefault": true
+    },
+    {
+      "id": "OAuthDB",
+      "isDefault": false
     }
   ],
   "viewMode": false,
