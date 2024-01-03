@@ -13,8 +13,8 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Page2",
-    "collectionId": "Page2_JSObject1",
+    "pageId": "Blahk",
+    "collectionId": "Blahk_JSObject1",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -38,7 +38,7 @@
     "userPermissions": [],
     "createdAt": "2024-01-03T04:59:14Z"
   },
-  "id": "Page2_JSObject1.myFun2",
+  "id": "Blahk_JSObject1.myFun2",
   "deleted": false,
   "gitSyncId": "6594d7df0e89b573304f7b0d_6594e9a21418bc340518af1e"
 }
