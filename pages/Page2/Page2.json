@@ -49,9 +49,7 @@
               "collectionId": "Page2_JSObject1",
               "confirmBeforeExecute": false,
               "pluginType": "JS",
-              "jsonPathKeys": [
-                "function () {\n  return \"raksha\";\n}"
-              ],
+              "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             }
           ]

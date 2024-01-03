@@ -40,7 +40,8 @@
     "userSetOnLoad": true,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2024-01-03T05:49:08Z"
   },
   "id": "USERS_SelectQuery",
   "deleted": false,
