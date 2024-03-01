@@ -7,6 +7,10 @@
     {
       "id": "OAuthDB",
       "isDefault": false
+    },
+    {
+      "id": "Custom Widget",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -15,6 +19,17 @@
   "unpublishedApplicationDetail": {
     "appPositioning": {
       "type": "FIXED"
+    },
+    "navigationSetting": {
+      "showNavbar": true,
+      "orientation": "top",
+      "navStyle": "stacked",
+      "position": "static",
+      "itemStyle": "text",
+      "colorStyle": "light",
+      "logoAssetId": "65b7768812e0d71f3fda03dc",
+      "logoConfiguration": "logoOnly",
+      "showSignIn": true
     }
   },
   "color": "#CCCCCC",
