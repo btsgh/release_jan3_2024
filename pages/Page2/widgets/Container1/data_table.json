@@ -152,7 +152,7 @@
   "parentRowSpace": 10,
   "primaryColumnId": "_id",
   "primaryColumns": {
-    "appsmith_mongo_escape_id": {
+    "_id": {
       "borderRadius": "0px",
       "boxShadow": "none",
       "columnType": "text",
