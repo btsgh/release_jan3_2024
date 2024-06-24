@@ -1,75 +1,31 @@
 {
+  "gitSyncId": "6594e45f1418bc340518ac22_6594f4c5afc27271023e0c2b",
   "unpublishedPage": {
-    "name": "Page2",
-    "slug": "page2",
     "layouts": [
       {
-        "viewMode": false,
         "dsl": {
-          "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 1224,
-          "snapColumns": 64,
-          "detachFromLayout": true,
-          "widgetId": "0",
-          "topRow": 0,
           "bottomRow": 890,
-          "containerStyle": "none",
-          "snapRows": 53,
-          "parentRowSpace": 1,
-          "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 88,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
           "minHeight": 550,
           "parentColumnSpace": 1,
-          "dynamicBindingPathList": [],
-          "leftColumn": 0
-        },
-        "layoutOnLoadActions": [
-          [
-            {
-              "id": "Page2_FindQuery",
-              "name": "FindQuery",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "key_select.selectedOptionValue",
-                "data_table.sortOrder.order == \"desc\" ? -1 : 1",
-                "data_table.pageSize",
-                "data_table.searchText||\"\"",
-                "data_table.sortOrder.column || 'name'",
-                "(data_table.pageNo - 1) * data_table.pageSize",
-                "order_select.selectedOptionValue"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "Page2_JSObject1.myFun1",
-              "name": "JSObject1.myFun1",
-              "collectionId": "Page2_JSObject1",
-              "confirmBeforeExecute": false,
-              "pluginType": "JS",
-              "jsonPathKeys": [
-                "function () {\n  return \"raksha\";\n}"
-              ],
-              "timeoutInMillisecond": 10000
-            }
-          ]
-        ],
-        "layoutOnLoadActionErrors": [],
-        "mongoEscapedWidgetNames": [
-          "data_table"
-        ],
-        "validOnPageLoadActions": true,
-        "id": "Page2",
-        "deleted": false,
-        "policies": [],
-        "userPermissions": []
+          "parentRowSpace": 1,
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "snapRows": 53,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 89,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
       }
     ],
-    "userPermissions": [],
-    "policies": []
-  },
-  "deleted": false,
-  "gitSyncId": "6594e45f1418bc340518ac22_6594f4c5afc27271023e0c2b"
+    "name": "Page2",
+    "slug": "page2"
+  }
 }
